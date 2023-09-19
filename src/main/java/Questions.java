@@ -15,7 +15,7 @@ public class Questions {
     int question2(){
         /* 
          * Replace the 0 in the return statement with the answer you believe to be true for the question below
-         * 
+         * test
          * What line number represents the end of the "accelerate" method con ? 
          */
         return 14;
