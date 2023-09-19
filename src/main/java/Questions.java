@@ -16,7 +16,7 @@ public class Questions {
         /* 
          * Replace the 0 in the return statement with the answer you believe to be true for the question below
          * 
-         * What line number represents the end of the "accelerate" method con? 
+         * What line number represents the end of the "accelerate" method con ? 
          */
         return 14;
     }
