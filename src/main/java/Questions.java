@@ -6,7 +6,7 @@ public class Questions {
     int question1(){
         /* 
          * Replace the main 0 in the return statement with the answer you believe to be true for the question below
-         * test passess sucsessfully
+         * test passess now
          * How many variables are in the class "Vehicle"?
          */
         return 3;
